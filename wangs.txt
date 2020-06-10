@@ -3471,14 +3471,3 @@ CCTV14超清,http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 香港映嘉娱乐MiaoMi-TV儿童频道,http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 IPTV黑莓动画1920*1080],http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 北京卡酷少儿,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000067.m3u8
-福州少儿 FZTV4,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-福州少儿FZTV4,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
-河北少儿,http://weblive.hebtv.com./live/hbse_lc/index.m3u8
-狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
-猪侠英雄,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
-
